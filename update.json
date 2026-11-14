@@ -1,8 +1,8 @@
 {
-  "version": "1.6.1",
-  "build": 12,
-  "notes": "修复主题只影响字色不明显的毛病：菜单栏弹出菜单与主窗口共用同一套主题；按钮改用主题高亮色；窗口底色叠一层高亮色，四套彩色预设区别更明显。",
-  "download": "https://raw.githubusercontent.com/Hangayn/HGMACTOOLS-updates/main/HG-MAC-TOOLS-1.6.1-universal.zip",
-  "sha256": "134e446ee8efb2901e9338d18ab16d939d69a0dd3212f26adf1ed2d44a9704d5",
+  "version": "1.6.2",
+  "build": 13,
+  "notes": "菜单栏弹窗改为不透明主题底色（不再透出后面窗口的文字）；设置页隐藏 Form 自带背景，和主窗口同一套主题；版本号只显示 v1.6.2，不再带 build 号。",
+  "download": "https://raw.githubusercontent.com/Hangayn/HGMACTOOLS-updates/main/HG-MAC-TOOLS-1.6.2-universal.zip",
+  "sha256": "df17a6a6a333538bd958713bf5be69c5ddbfc3685eb05c06d2c386f25eb4e262",
   "page": "https://github.com/Hangayn/HGMACTOOLS/releases"
 }
