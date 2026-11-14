@@ -1,8 +1,8 @@
 {
-  "version": "1.5.1",
-  "build": 10,
-  "notes": "修正黑黑/胡子的图标对应（现在黑黑=黑猫、胡子=灰猫），预设顺序：斑斑/包乔治/黑黑/胡子/自定义。",
-  "download": "https://raw.githubusercontent.com/Hangayn/HGMACTOOLS-updates/main/HG-MAC-TOOLS-1.5.1-universal.zip",
-  "sha256": "03f644bb05b5f674a048ef21f3f2a43ebb7c6d6ed4b308f69622cbc219e128b9",
+  "version": "1.6.0",
+  "build": 11,
+  "notes": "修复系统主题下菜单栏图标被涂黑的问题；主题改为 5 套预设（跟随系统/海雾蓝/石墨/松绿/樱粉），同时改主界面背景、字体颜色和图标高亮色。",
+  "download": "https://raw.githubusercontent.com/Hangayn/HGMACTOOLS-updates/main/HG-MAC-TOOLS-1.6.0-universal.zip",
+  "sha256": "d6115636b1f3525a957d4aa9db46b8bd50fa7c49f9b071f0e6ae1e1d6dc57a20",
   "page": "https://github.com/Hangayn/HGMACTOOLS/releases"
 }
