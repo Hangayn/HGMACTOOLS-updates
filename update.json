@@ -1,8 +1,8 @@
 {
-  "version": "1.5.0",
-  "build": 9,
-  "notes": "新增斑斑图标（预设顺序：斑斑/包乔治/黑黑/胡子/自定义）；设置里可切换半透明暗色主题。",
-  "download": "https://raw.githubusercontent.com/Hangayn/HGMACTOOLS-updates/main/HG-MAC-TOOLS-1.5.0-universal.zip",
-  "sha256": "2925cd640079e545b26b55d9f133f60649c616a1b979a1e2b115edee86a4d46c",
+  "version": "1.5.1",
+  "build": 10,
+  "notes": "修正黑黑/胡子的图标对应（现在黑黑=黑猫、胡子=灰猫），预设顺序：斑斑/包乔治/黑黑/胡子/自定义。",
+  "download": "https://raw.githubusercontent.com/Hangayn/HGMACTOOLS-updates/main/HG-MAC-TOOLS-1.5.1-universal.zip",
+  "sha256": "03f644bb05b5f674a048ef21f3f2a43ebb7c6d6ed4b308f69622cbc219e128b9",
   "page": "https://github.com/Hangayn/HGMACTOOLS/releases"
 }
