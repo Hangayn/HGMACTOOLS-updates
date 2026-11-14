@@ -1,8 +1,8 @@
 {
-  "version": "1.4.0",
-  "build": 8,
-  "notes": "设置里可以上传自己的方形 PNG 图标（边长 64–1024，自动校验）；检查更新支持一键自动更新。",
-  "download": "https://raw.githubusercontent.com/Hangayn/HGMACTOOLS-updates/main/HG-MAC-TOOLS-1.4.0-universal.zip",
-  "sha256": "a947a4a17c141dc21d22df5d5be422ec118b7d229dd93809a4edd3e9f03cdf35",
+  "version": "1.5.0",
+  "build": 9,
+  "notes": "新增斑斑图标（预设顺序：斑斑/包乔治/黑黑/胡子/自定义）；设置里可切换半透明暗色主题。",
+  "download": "https://raw.githubusercontent.com/Hangayn/HGMACTOOLS-updates/main/HG-MAC-TOOLS-1.5.0-universal.zip",
+  "sha256": "2925cd640079e545b26b55d9f133f60649c616a1b979a1e2b115edee86a4d46c",
   "page": "https://github.com/Hangayn/HGMACTOOLS/releases"
 }
