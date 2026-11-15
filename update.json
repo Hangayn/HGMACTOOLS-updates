@@ -1,8 +1,8 @@
 {
-  "version": "1.6.3",
-  "build": 14,
-  "notes": "窗口内容铺到标题栏下面，标题栏不再是「纯透明」而是跟内容同一块主题底色；主窗口/设置/弹窗统一。",
-  "download": "https://raw.githubusercontent.com/Hangayn/HGMACTOOLS-updates/main/HG-MAC-TOOLS-1.6.3-universal.zip",
-  "sha256": "85768ce6df1046bc58aa9f90c387c44379f49e678f5fb43a5e5393bf368a883f",
+  "version": "1.7.0",
+  "build": 15,
+  "notes": "截图拖动时停住指针会出放大镜并显示起点/终点像素坐标；选区正中新增移动把手，拖它整框平移；图标标签改回 黑黑=灰猫、胡子=黑猫。",
+  "download": "https://raw.githubusercontent.com/Hangayn/HGMACTOOLS-updates/main/HG-MAC-TOOLS-1.7.0-universal.zip",
+  "sha256": "7654ef5c45aa63e4045d3cc0b30890cc5c47c74b013613542a917027cffaf0ac",
   "page": "https://github.com/Hangayn/HGMACTOOLS/releases"
 }
