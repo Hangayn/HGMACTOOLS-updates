@@ -1,8 +1,8 @@
 {
-  "version": "1.7.1",
-  "build": 16,
-  "notes": "修设置窗口顶部内容与标题叠在一起的问题：滚动内容到标题栏下方时被不透明遮罩挡住。",
-  "download": "https://raw.githubusercontent.com/Hangayn/HGMACTOOLS-updates/main/HG-MAC-TOOLS-1.7.1-universal.zip",
-  "sha256": "838cc58f5076afde9720eb798ada79d29254dbe5069d831d9d1d6ba602ab933a",
+  "version": "1.7.2",
+  "build": 17,
+  "notes": "放大镜出现后会一直跟着指针走，移动时不再闪掉；松手才收起。",
+  "download": "https://raw.githubusercontent.com/Hangayn/HGMACTOOLS-updates/main/HG-MAC-TOOLS-1.7.2-universal.zip",
+  "sha256": "55a076a2bd43100ab0177620663d5b3195530f0d49d7010abc160e61c70cbda5",
   "page": "https://github.com/Hangayn/HGMACTOOLS/releases"
 }
