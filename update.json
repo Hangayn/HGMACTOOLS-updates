@@ -1,8 +1,8 @@
 {
-  "version": "1.7.0",
-  "build": 15,
-  "notes": "截图拖动时停住指针会出放大镜并显示起点/终点像素坐标；选区正中新增移动把手，拖它整框平移；图标标签改回 黑黑=灰猫、胡子=黑猫。",
-  "download": "https://raw.githubusercontent.com/Hangayn/HGMACTOOLS-updates/main/HG-MAC-TOOLS-1.7.0-universal.zip",
-  "sha256": "7654ef5c45aa63e4045d3cc0b30890cc5c47c74b013613542a917027cffaf0ac",
+  "version": "1.7.1",
+  "build": 16,
+  "notes": "修设置窗口顶部内容与标题叠在一起的问题：滚动内容到标题栏下方时被不透明遮罩挡住。",
+  "download": "https://raw.githubusercontent.com/Hangayn/HGMACTOOLS-updates/main/HG-MAC-TOOLS-1.7.1-universal.zip",
+  "sha256": "838cc58f5076afde9720eb798ada79d29254dbe5069d831d9d1d6ba602ab933a",
   "page": "https://github.com/Hangayn/HGMACTOOLS/releases"
 }
