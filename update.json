@@ -1,8 +1,8 @@
 {
-  "version": "1.10.0",
-  "build": 20,
-  "notes": "标注颜色支持色盘自选：工具栏最右边新增取色器，选中的标注也能直接改成任意颜色。",
-  "download": "https://raw.githubusercontent.com/Hangayn/HGMACTOOLS-updates/main/HG-MAC-TOOLS-1.10.0-universal.zip",
-  "sha256": "d22cf2772a07e9272568407c64fde2e59fde5255982eaf629b24fdc6bd52899b",
+  "version": "1.11.0",
+  "build": 21,
+  "notes": "记住上次标注颜色（设置里可关）；启动时每 7 天静默检查新版本，有更新会在菜单栏菜单/主窗口提示；更新源改为 jsDelivr → raw → GitHub API 三路兜底。",
+  "download": "https://raw.githubusercontent.com/Hangayn/HGMACTOOLS-updates/main/HG-MAC-TOOLS-1.11.0-universal.zip",
+  "sha256": "172c3300d576d6558c905f741c0382d2e3396f2a8ab788c5d9a72fc144a5cf06",
   "page": "https://github.com/Hangayn/HGMACTOOLS/releases"
 }
