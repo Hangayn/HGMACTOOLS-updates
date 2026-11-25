@@ -1,8 +1,8 @@
 {
-  "version": "1.9.0",
-  "build": 19,
-  "notes": "文字标注去掉黑色描边（更像系统工具的观感）；选中任意标注后点工具栏颜色可直接改它的颜色。",
-  "download": "https://raw.githubusercontent.com/Hangayn/HGMACTOOLS-updates/main/HG-MAC-TOOLS-1.9.0-universal.zip",
-  "sha256": "11bd8da201b2f7ef517dc4559e6bff3182f5310d37f116a5c75131709840675c",
+  "version": "1.10.0",
+  "build": 20,
+  "notes": "标注颜色支持色盘自选：工具栏最右边新增取色器，选中的标注也能直接改成任意颜色。",
+  "download": "https://raw.githubusercontent.com/Hangayn/HGMACTOOLS-updates/main/HG-MAC-TOOLS-1.10.0-universal.zip",
+  "sha256": "d22cf2772a07e9272568407c64fde2e59fde5255982eaf629b24fdc6bd52899b",
   "page": "https://github.com/Hangayn/HGMACTOOLS/releases"
 }
