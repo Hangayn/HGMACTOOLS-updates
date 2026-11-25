@@ -1,8 +1,8 @@
 {
-  "version": "1.11.4",
-  "build": 25,
-  "notes": "修复 bug：更新包在 raw.githubusercontent 被墙时下载失败，现在改走 codeload 的仓库压缩包兜底，并校验内层 zip 的 sha256。",
-  "download": "https://raw.githubusercontent.com/Hangayn/HGMACTOOLS-updates/main/HG-MAC-TOOLS-1.11.4-universal.zip",
-  "sha256": "773aec4bc6c14279495505d0ab330180ea2152cfd92a5e6baf3cc4a3521da250",
+  "version": "1.11.5",
+  "build": 26,
+  "notes": "修复 bug：新增黑色、荧光黄两个预设颜色（色盘入口可能被工具栏挤住，先用预设凑手）；拖动截图框时标注文字和图形跟着框一起走。",
+  "download": "https://raw.githubusercontent.com/Hangayn/HGMACTOOLS-updates/main/HG-MAC-TOOLS-1.11.5-universal.zip",
+  "sha256": "43b6a113f1da8230c694291d1e3b9fa50c26f007fa2ea78b3c644f8d296e5053",
   "page": "https://github.com/Hangayn/HGMACTOOLS/releases"
 }
