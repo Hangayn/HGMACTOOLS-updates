@@ -1,8 +1,8 @@
 {
-  "version": "1.7.2",
-  "build": 17,
-  "notes": "放大镜出现后会一直跟着指针走，移动时不再闪掉；松手才收起。",
-  "download": "https://raw.githubusercontent.com/Hangayn/HGMACTOOLS-updates/main/HG-MAC-TOOLS-1.7.2-universal.zip",
-  "sha256": "55a076a2bd43100ab0177620663d5b3195530f0d49d7010abc160e61c70cbda5",
+  "version": "1.8.0",
+  "build": 18,
+  "notes": "标注画完可以再选中缩放：框/圈/箭头/铅笔拖四角等比缩放，文字跟着改字号；拖它本身仍是移动。",
+  "download": "https://raw.githubusercontent.com/Hangayn/HGMACTOOLS-updates/main/HG-MAC-TOOLS-1.8.0-universal.zip",
+  "sha256": "45a474bd0c241e43b71b081019fd651f42f6489995ce462c97c4ae56327420d6",
   "page": "https://github.com/Hangayn/HGMACTOOLS/releases"
 }
