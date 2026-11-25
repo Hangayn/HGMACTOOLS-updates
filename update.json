@@ -1,8 +1,8 @@
 {
-  "version": "1.11.2",
-  "build": 23,
-  "notes": "自定义颜色入口改成醒目的色块按钮（原来那个系统色井在截图浮层上不显眼）：点它弹出系统色盘，选中的标注会同步改色；工具栏宽度按内容自适应。",
-  "download": "https://raw.githubusercontent.com/Hangayn/HGMACTOOLS-updates/main/HG-MAC-TOOLS-1.11.2-universal.zip",
-  "sha256": "c070acb1acfeb7bbc18be6797b98546af84a6cbb82f3cb39aee45e80175b31bb",
+  "version": "1.11.3",
+  "build": 24,
+  "notes": "修「明明有新版本却提示已是最新」：三个版本源改为并发拉取、取最高版本号（jsDelivr 缓存旧版本时不再误判）；重启后仍记得有待更新版本。",
+  "download": "https://raw.githubusercontent.com/Hangayn/HGMACTOOLS-updates/main/HG-MAC-TOOLS-1.11.3-universal.zip",
+  "sha256": "eec7d3ff90b5a578060c90b89133e3e9888da683c6d4155cae90f4dca36baef3",
   "page": "https://github.com/Hangayn/HGMACTOOLS/releases"
 }
