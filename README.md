@@ -12,7 +12,7 @@
 
 ## 下载
 
-当前版本：**[HG-MAC-TOOLS-1.8.0-universal.zip](./HG-MAC-TOOLS-1.8.0-universal.zip)**（2.6 MB）
+当前版本：**[HG-MAC-TOOLS-1.9.0-universal.zip](./HG-MAC-TOOLS-1.9.0-universal.zip)**（2.6 MB）
 
 1. 解压，把 `HG MAC TOOLS.app` 拖进「应用程序」
 2. 第一次打开若提示「无法验证开发者」，右键 →「打开」即可（自签名，没有苹果开发者证书）
@@ -36,7 +36,7 @@ A tiny macOS utility I wrote for myself: screenshots, screen recording, and a fe
 
 ## Download
 
-Current build: **[HG-MAC-TOOLS-1.8.0-universal.zip](./HG-MAC-TOOLS-1.8.0-universal.zip)** (2.6 MB)
+Current build: **[HG-MAC-TOOLS-1.9.0-universal.zip](./HG-MAC-TOOLS-1.9.0-universal.zip)** (2.6 MB)
 
 Unzip, drag `HG MAC TOOLS.app` into Applications. If macOS complains it cannot verify the developer, right-click → Open (the app is self-signed, no Apple Developer certificate). Requires macOS 12.3+, universal (Intel + Apple Silicon).
 

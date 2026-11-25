@@ -1,8 +1,8 @@
 {
-  "version": "1.8.0",
-  "build": 18,
-  "notes": "标注画完可以再选中缩放：框/圈/箭头/铅笔拖四角等比缩放，文字跟着改字号；拖它本身仍是移动。",
-  "download": "https://raw.githubusercontent.com/Hangayn/HGMACTOOLS-updates/main/HG-MAC-TOOLS-1.8.0-universal.zip",
-  "sha256": "45a474bd0c241e43b71b081019fd651f42f6489995ce462c97c4ae56327420d6",
+  "version": "1.9.0",
+  "build": 19,
+  "notes": "文字标注去掉黑色描边（更像系统工具的观感）；选中任意标注后点工具栏颜色可直接改它的颜色。",
+  "download": "https://raw.githubusercontent.com/Hangayn/HGMACTOOLS-updates/main/HG-MAC-TOOLS-1.9.0-universal.zip",
+  "sha256": "11bd8da201b2f7ef517dc4559e6bff3182f5310d37f116a5c75131709840675c",
   "page": "https://github.com/Hangayn/HGMACTOOLS/releases"
 }
